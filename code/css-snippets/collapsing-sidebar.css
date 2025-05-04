@@ -27,7 +27,7 @@
 
 /* Optional Fix: sidebar icon below MacOS Window Controls */
 /*
-.clickable-icon {
+.sidebar-toggle-button > .clickable-icon {
   margin-left: 2dvw;
 }
 */
