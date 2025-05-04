@@ -24,3 +24,10 @@
 .side-dock-ribbon.mod-right.is-collapsed:not(:hover) {
   right: 0;
 }
+
+/* Optional Fix: sidebar icon below MacOS Window Controls */
+/*
+.clickable-icon {
+  margin-left: 2dvw;
+}
+*/
